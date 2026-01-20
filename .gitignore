@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# YOLO & Model Dosyaları (Boyutları çok büyük olduğu için)
+*.pt
+*.weights
+*.onnx
+runs/
+datasets/
+
+# Veri ve Loglar
+*.log
+*.mp4
+*.avi
+*.jpg
+*.png
+!README.md
+
+# IDE / Editör
+.vscode/
+.idea/
+.DS_Store

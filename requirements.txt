@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+customtkinter
+pillow
+supervision
+pandas
+openpyxl
